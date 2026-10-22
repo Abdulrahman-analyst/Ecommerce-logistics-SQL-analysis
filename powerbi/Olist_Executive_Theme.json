@@ -1,0 +1,102 @@
+{
+  "name": "Olist Executive - Teal and Slate",
+  "dataColors": [
+    "#0D9488",
+    "#334155",
+    "#D97706",
+    "#DC2626",
+    "#0891B2",
+    "#7C3AED",
+    "#64748B",
+    "#65A30D"
+  ],
+  "good": "#0D9488",
+  "neutral": "#D97706",
+  "bad": "#DC2626",
+  "minimum": "#CCFBF1",
+  "center": "#5EEAD4",
+  "maximum": "#0F766E",
+  "null": "#CBD5E1",
+  "background": "#FFFFFF",
+  "firstLevelElements": "#0F172A",
+  "secondLevelElements": "#64748B",
+  "thirdLevelElements": "#E2E8F0",
+  "fourthLevelElements": "#CBD5E1",
+  "secondaryBackground": "#F1F5F9",
+  "tableAccent": "#0D9488",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 30,
+      "color": "#0F172A"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 13,
+      "color": "#0F172A"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#0F172A"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 11,
+      "color": "#475569"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E2E8F0"
+              }
+            },
+            "radius": 10
+          }
+        ],
+        "title": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 13,
+            "fontColor": {
+              "solid": {
+                "color": "#0F172A"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F3F6FA"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
