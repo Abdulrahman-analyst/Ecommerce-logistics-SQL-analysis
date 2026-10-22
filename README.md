@@ -7,10 +7,10 @@ SQL analysis and a two-page Power BI report covering 99,441 Brazilian e-commerce
 ## Dashboard
 
 ### Commercial Overview
-![Commercial Overview](docs/commercial-overview.png)
+![Commercial Overview](docs/1.png)
 
 ### Delivery Performance
-![Delivery Performance](docs/delivery-performance.png)
+![Delivery Performance](docs/2.png)
 
 [Download the Power BI report](powerbi/Olist_Ecommerce_Analysis.pbix)
 
