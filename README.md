@@ -4,6 +4,16 @@ SQL analysis and a two-page Power BI report covering 99,441 Brazilian e-commerce
 
 **Tools:** SQLite · DB Browser for SQLite · Power Query · DAX · Power BI Desktop
 
+## Dashboard
+
+### Commercial Overview
+![Commercial Overview](docs/commercial-overview.png)
+
+### Delivery Performance
+![Delivery Performance](docs/delivery-performance.png)
+
+[Download the Power BI report](powerbi/Olist_Ecommerce_Analysis.pbix)
+
 ## Main findings
 
 | Metric | Result |
